@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="943e9e97-d20e-47d8-89a7-b2662a810b1f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../P01TrapeziodArea/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P01TrapeziodArea/.idea/P01TrapeziodArea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P01TrapeziodArea/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P01TrapeziodArea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P01TrapeziodArea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P01TrapeziodArea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P01TrapeziodArea/P01TrapeziodArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02TriangleArea/.idea/P02TriangleArea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P02TriangleArea/P02TriangleArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P03CelsiusToFahrenheit/.idea/P03CelsiusToFahrenheit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P03CelsiusToFahrenheit/P03CelsiusToFahrenheit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P04VegetableMarket/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P04VegetableMarket/.idea/P04VegetableMarket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P04VegetableMarket/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P04VegetableMarket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P04VegetableMarket/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P04VegetableMarket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P04VegetableMarket/P04VegetableMarket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P05TrainingLab/.idea/P05TrainingLab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P05TrainingLab/P05TrainingLab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P06Fishland/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P06Fishland/.idea/P06Fishland.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P06Fishland/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P06Fishland/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P06Fishland/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P06Fishland/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P06Fishland/P06Fishland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P07HousePainting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P07HousePainting/.idea/P07HousePainting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P07HousePainting/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P07HousePainting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P07HousePainting/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P07HousePainting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P07HousePainting/P07HousePainting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P08CircleAreaAndPerimeter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P08CircleAreaAndPerimeter/.idea/P08CircleAreaAndPerimeter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P08CircleAreaAndPerimeter/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P08CircleAreaAndPerimeter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P08CircleAreaAndPerimeter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P08CircleAreaAndPerimeter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../P08CircleAreaAndPerimeter/P08CircleAreaAndPerimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/P09WeatherForecast.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/P09WeatherForecast.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1xPusBqbVSewTXKOTFVl0iJpn6o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="P09WeatherForecast" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="P09WeatherForecast" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/P09WeatherForecast.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.P09WeatherForecast" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="943e9e97-d20e-47d8-89a7-b2662a810b1f" name="Changes" comment="" />
+      <created>1630269248372</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630269248372</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
